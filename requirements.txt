@@ -1,0 +1,5 @@
+tda-api
+yfinance
+matplotlib
+pandas
+numpy
